@@ -10,7 +10,7 @@ export default defineConfig({
   title: "wuyi",
   description: "",
   lang: "zh-Hans", //语言
-
+  base: '/life/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
