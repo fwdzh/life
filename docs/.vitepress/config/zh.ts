@@ -49,7 +49,7 @@ export default defineConfig({
     ],
 
     editLink: {
-      pattern: "https://github.com/Justin3go/justin3go.com/edit/master/docs/:path",
+      pattern: "https://github.com/fwdzh/life/edit/main/docs/:path",
       text: "在 GitHub 上编辑此页",
     },
     returnToTopLabel: "回到顶部",
