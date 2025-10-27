@@ -14,7 +14,7 @@ export default defineConfig({
   cleanUrls: true,
   ignoreDeadLinks: true,
   sitemap: {
-    hostname: 'https://justin3go.com'
+    hostname: 'https://wuyi.host'
   },
   head: [
     ["script", { async: "", src: "https://www.googletagmanager.com/gtag/js?id=G-MB7XVBG1TQ" }],
@@ -31,7 +31,7 @@ export default defineConfig({
       "link",
       {
         rel: "icon",
-        href: "https://oss.justin3go.com/justin3goAvatar.ico",
+        href: "https://ys.mihoyo.com/main/favicon.ico",
       },
     ],
   ],
